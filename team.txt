@@ -1,11 +1,11 @@
-Andee
-Baylla
-Davved
-Goorge
-Gysell
-Justyn
-Loois
-Rian
-Rodreego
-Sammual
-Stowyen
+1. Andee
+2. Baylla
+3. Davved
+4. Goorge
+5. Gysell
+6. Justyn
+7. Loois
+8. Rian
+9. Rodreego
+10. Sammual
+11. Stowyen
